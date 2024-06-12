@@ -1,4 +1,9 @@
+<param ve-map center="51.41005952283872,-0.024239987470465907" zoom="10">
+
+<param ve-map center="51.41005952283872,-0.024239987470465907" zoom="10">
+
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 ## VRF Essay
 This is my first paragraph of my VRF essay.
 
